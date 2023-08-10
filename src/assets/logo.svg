@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256.544" height="68.98" viewBox="0 0 256.544 68.98">
+  <g id="Group_3" data-name="Group 3" transform="translate(-183.456 -27.51)">
+    <text id="Az.Riz" transform="translate(285 80)" fill="#fff" font-size="40" font-family="FuturaRound-Demi, Futura Round Demi" font-weight="300" letter-spacing="0.18em">
+      <tspan x="0" y="0">AZ.RIZ</tspan>
+    </text>
+    <g id="Group_2" data-name="Group 2" transform="translate(1010.177 -640.99) rotate(90)">
+      <path id="Path_304" data-name="Path 304" d="M717,739.067,770.669,784.1V770.21L717,725.177Z" transform="translate(-33.189)" fill="#fff"/>
+      <path id="Path_305" data-name="Path 305" d="M677,766.067,730.669,811.1V797.21L677,752.177Z" transform="translate(-5.817 -18.476)" fill="#fff"/>
+      <path id="Path_306" data-name="Path 306" d="M717,859.067,770.669,904.1V890.21L717,845.177Z" transform="translate(-33.189 -82.116)" fill="#fff"/>
+      <path id="Path_307" data-name="Path 307" d="M668.5,874.067,722.169,919.1V905.21L668.5,860.177Z" transform="translate(0 -92.381)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
